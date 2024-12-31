@@ -1,0 +1,20 @@
+{
+  "name": "2024-final-project-video-sync",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "prepare": "husky",
+    "build": "tsup"
+  },
+  "keywords": [],
+  "author": "JacobLinCool <jacoblincool@gmail.com> (https://github.com/JacobLinCool)",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "husky": "^9.1.7",
+    "tsup": "^8.3.5",
+    "typescript": "^5.7.2"
+  }
+}
